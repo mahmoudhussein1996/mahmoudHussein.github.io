@@ -76,16 +76,15 @@
       },
       {
         "appMainColor": "#34a05f",
-        "appIcon": "tshtri.png",
-        "appName": "Tshtri",
-        "appBio": "Simply buy and sell…",
-        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
-        "mainPreviewImage": "tshtri_preview_image.png",
-        "appStoreId": "1602869931",
-        "playPackageId": "com.tshtri.tshtri",
+        "appIcon": "schoopedia.png",
+        "appName": "Schoopedia App",
+        "appBio": "Schoopedia App",
+        "fullDescription": "Schoopedia is An application that helps you follow your lessons by finding the best lessons for the subjects on YouTube.",
+        "mainPreviewImage": "schoopedia_preview.png",
+        "appStoreId": "",
+        "playPackageId": "com.almotahida.schoopedia",
         "presentationImage": "tshtri_presentation.png",
         "isSoon": false,
-        "isIosPlatform": true,
         "isAndroidPlatform": true,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
@@ -116,14 +115,14 @@
       },
       {
         "appMainColor": "#4C7DDC",
-        "appIcon": "warshti_client_logo.png",
-        "appName": "Warshati",
-        "appBio": "A workshop on your mobile phone…",
-        "fullDescription": "Warshati App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
-        "mainPreviewImage": "warshti_client_main.png",
-        "appStoreId": "1610405764",
-        "playPackageId": "app.warshati",
-        "presentationImage": "warshti_client_pres.png",
+        "appIcon": "jeras.png",
+        "appName": "jeras App",
+        "appBio": "jeras App",
+        "fullDescription": "Jeras is an application it’s provide all service providers committed to the ethic-based education and empowerment of individualsjerasprovide services: 1- start memorizing the book of Allah in a simple and easy way with the help of our specialists 2- e instill values in young children via bedtime stories through video calls, to shape their thoughts and perceptions 3- Specialists assisting children with communication and expression difficulties 4- One-to-one lessons to help students understand their advanced curriculum.",
+        "mainPreviewImage": "jeras.png",
+        "appStoreId": "1612021922",
+        "playPackageId": "com.app.jeras",
+        "presentationImage": "jeras_preview.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -150,14 +149,14 @@
       },
       {
         "appMainColor": "#55a38f",
-        "appIcon": "warshtri_bis.png",
-        "appName": "Warshati Bis",
-        "appBio": "A workshop on your mobile phone…",
-        "fullDescription": "Warshati Bis App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. this app dedicated to workshops, to receive sent requests from clients, Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
+        "appIcon": "dream.png",
+        "appName": "Dream App",
+        "appBio": "Dream App",
+        "fullDescription": "Dream App is your key to unlocking your dream interpretation. Connect with verified and carefully selected dream interpreters via voice calls with just a few clicks all at your fingertips",
         "mainPreviewImage": "warshtri_bis_prev.png",
-        "appStoreId": "1610941647",
-        "playPackageId": "warshati.work_shop",
-        "presentationImage": "warshtri_bis_pres.png",
+        "appStoreId": "1515745954",
+        "playPackageId": "com.abdulazizahmed.dream",
+        "presentationImage": "dream_previw.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -180,50 +179,6 @@
           {
             "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
           }
-        ]
-      },
-      {
-        "appMainColor": "#6A8974",
-        "appIcon": "etoy_logo.png",
-        "appName": "eToy App",
-        "appBio": "eToy App: Swap, Giveaway, Sell…",
-        "fullDescription": "eToy App is a community that makes a difference, not just an app. eToy App is a unique platform that brings together like-minded people in their communities to swap, give away, or even sell preloved (used) toys in a pleasant setting. Say YES to spreading joy to other children. A simple act that teaches your child the worth of his possessions and how to take care of them (while also decluttering your home!). eToy App also contributes to the reduction of current plastic usage and waste on our earth",
-        "mainPreviewImage": "etoy_prev.png",
-        "appStoreId": "1579176714",
-        "playPackageId": "com.layouti.etoy",
-        "presentationImage": "etoy_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "swap, give away, or even sell preloved (used) toys in a pleasant setting."
-          },
-          {
-            "future": "Spread the culture of recycling and gifting. Create your profile, set your location, and join your local etoy community for kid’s toys."
-          },
-          {
-            "future": "eToy App also contributes to the reduction of current plastic usage and waste on our earth"
-          },
-          {
-            "future": "help you to decluttering your home!"
-          },
-          {
-            "future": "Browse and search for preloved toys, and engage your kid in finding their favorites too! etoy is a child-friendly environment app."
-          },
-           {
-            "future": "By using etoy app, you are helping in cutting down on the current plastic used resulting in waste across our planet & making another kid happy."
-          },
-          {
-            "future": "Contact the toy provider through etoy and confirm the drop-off point to close the deal. etoy is a peer-to-peer marketplace."
-          },
-          {
-            "future": "We also love to give back! Close the deal, and engage with etoyers to gain points & gifts. Be a recycling etoyer hero your child will proud of!."
-          }
-
         ]
       }
 
