@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "headline1": "Hi!",
+    "headline2": "I’m Mahmoud Hussein",
+    "bio": "I'm Mahmoud Hussein. I have over 5 years of experience as a software engineer, including 3+ years of experience as a Flutter developer. seeking challenging and rewarding position with a corporation. wherebymyinterpersonal technicalskillsinthefieldofapplicationdevelopmentwhileachieving corporate goals by working within a team to achieve the organization goals",
+    "cvUrl": "https://files.fm/u/r6kxwcdncb",
+    "profileUrl": "assets/images/profile.jpeg",
+    "fullName": "Mahmoud Hussein",
+    "jobTitle": "Mobile Application Development",
+    "jobLevel": "Senior Flutter Developer"
+  }
+}

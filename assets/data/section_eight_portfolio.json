@@ -1,0 +1,232 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "subTitle": "My work",
+    "projects":[
+      {
+        "appMainColor": "#2BAAB7",
+        "appIcon": "guidle.png",
+        "appName": "Guidlle",
+        "appBio": "Get Our App Now Enjoy The Services Provided",
+        "fullDescription": "Guidlle is an application that offers access to educational resources from primary school through employment, It helps you in obtaining your lessons in all stages of education and testing on them, and helps you in choosing your college in the correct academic way using artificial intelligence.",
+        "mainPreviewImage": "guidle.png",
+        "appStoreId": "6443803109",
+        "playPackageId": "com.daleeldev.guidlle",
+        "presentationImage": "guidle.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Follow your lessons constantly"
+          },
+          {
+            "future": "Reminding you of lesson times"
+          },
+          {
+            "future": "Evaluating the educational level with tests on each lesson"
+          },
+
+          {
+            "future": "Giving financial prizes to outstanding students"
+          },
+          {
+            "future": "Advanced search to find best instructors for your materials ."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#5179F0",
+        "appIcon": "bareq.png",
+        "appName": "Bareq",
+        "appBio": "Learn With Bareq",
+        "fullDescription": "Bareq application that helps you learn the Arabic language by measuring your level by entering the application by testing you and then determining your level. At each level during the application there is a test to measure your understanding.",
+        "mainPreviewImage": "bareq.png",
+        "appStoreId": "1659274612",
+        "playPackageId": "com.almotahidaeducation.bareqApp",
+        "presentationImage": "bareq_preview.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Your Learning Arabic Partner."
+          },
+          {
+            "future": "Learn the Arabic language from the beginning or strengthen yourself in it if you have studied it before ."
+          },
+          {
+            "future": "Follow Arabic language lessons in a fun and easy way ."
+          },
+          {
+            "future": "Measure the level of response through a test on each lesson ."
+          },
+          {
+            "future": "Prepare reports for each lesson and each level to measure your level of excellence ."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#34a05f",
+        "appIcon": "tshtri.png",
+        "appName": "Tshtri",
+        "appBio": "Simply buy and sell…",
+        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
+        "mainPreviewImage": "tshtri_preview_image.png",
+        "appStoreId": "1602869931",
+        "playPackageId": "com.tshtri.tshtri",
+        "presentationImage": "tshtri_presentation.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Enjoy a better and faster user interface."
+          },
+          {
+            "future": "You can offer your product for sale easily, smoothly, and quickly, much more than before, and in fewer steps."
+          },
+          {
+            "future": "You can set a fixed price for your commodity or make it on a bidding process, and then you can set a default bid, or leave the matter open to bidders."
+          },
+          {
+            "future": "You will receive a notification whenever someone adds a higher bid than previously recorded."
+          },
+          {
+            "future": "Once a bid is accepted, the bidding process will be closed on the commodity, and a chat will be opened between you and the buyer for a direct agreement on the sale. If you both agree, you will choose (Item Sold Out) to show everyone that the commodity is (Sold)."
+          },
+          {
+            "future": "The buyer will also receive a notification with a message when his bid is accepted and he can reply to you directly."
+          },
+          {
+            "future": "You can now also respond to buyers' comments on your item."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#4C7DDC",
+        "appIcon": "warshti_client_logo.png",
+        "appName": "Warshati",
+        "appBio": "A workshop on your mobile phone…",
+        "fullDescription": "Warshati App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
+        "mainPreviewImage": "warshti_client_main.png",
+        "appStoreId": "1610405764",
+        "playPackageId": "app.warshati",
+        "presentationImage": "warshti_client_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct integration with government entities so you will know at the accident spot how much you will get paid by insurance company"
+          },
+          {
+            "future": "report problems / sounds coming from different areas of your car through video or audio recording and get a quotation about what needs to be fixed and how much it would cost."
+          },
+          {
+            "future": "periodic service and maintenance of your car."
+          },
+          {
+            "future": "schedule appointments for repairs / service / maintenance."
+          },
+          {
+            "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#55a38f",
+        "appIcon": "warshtri_bis.png",
+        "appName": "Warshati Bis",
+        "appBio": "A workshop on your mobile phone…",
+        "fullDescription": "Warshati Bis App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. this app dedicated to workshops, to receive sent requests from clients, Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
+        "mainPreviewImage": "warshtri_bis_prev.png",
+        "appStoreId": "1610941647",
+        "playPackageId": "warshati.work_shop",
+        "presentationImage": "warshtri_bis_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct integration with government entities so you will know at the accident spot how much you will get paid by insurance company"
+          },
+          {
+            "future": "report problems / sounds coming from different areas of your car through video or audio recording and get a quotation about what needs to be fixed and how much it would cost."
+          },
+          {
+            "future": "periodic service and maintenance of your car."
+          },
+          {
+            "future": "schedule appointments for repairs / service / maintenance."
+          },
+          {
+            "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#6A8974",
+        "appIcon": "etoy_logo.png",
+        "appName": "eToy App",
+        "appBio": "eToy App: Swap, Giveaway, Sell…",
+        "fullDescription": "eToy App is a community that makes a difference, not just an app. eToy App is a unique platform that brings together like-minded people in their communities to swap, give away, or even sell preloved (used) toys in a pleasant setting. Say YES to spreading joy to other children. A simple act that teaches your child the worth of his possessions and how to take care of them (while also decluttering your home!). eToy App also contributes to the reduction of current plastic usage and waste on our earth",
+        "mainPreviewImage": "etoy_prev.png",
+        "appStoreId": "1579176714",
+        "playPackageId": "com.layouti.etoy",
+        "presentationImage": "etoy_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "swap, give away, or even sell preloved (used) toys in a pleasant setting."
+          },
+          {
+            "future": "Spread the culture of recycling and gifting. Create your profile, set your location, and join your local etoy community for kid’s toys."
+          },
+          {
+            "future": "eToy App also contributes to the reduction of current plastic usage and waste on our earth"
+          },
+          {
+            "future": "help you to decluttering your home!"
+          },
+          {
+            "future": "Browse and search for preloved toys, and engage your kid in finding their favorites too! etoy is a child-friendly environment app."
+          },
+           {
+            "future": "By using etoy app, you are helping in cutting down on the current plastic used resulting in waste across our planet & making another kid happy."
+          },
+          {
+            "future": "Contact the toy provider through etoy and confirm the drop-off point to close the deal. etoy is a peer-to-peer marketplace."
+          },
+          {
+            "future": "We also love to give back! Close the deal, and engage with etoyers to gain points & gifts. Be a recycling etoyer hero your child will proud of!."
+          }
+
+        ]
+      }
+
+    ]
+  }
+}
